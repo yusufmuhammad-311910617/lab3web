@@ -8,9 +8,6 @@
 ![2](https://user-images.githubusercontent.com/81587959/114441346-78bee000-9bf5-11eb-9ef5-887c6f3b1a9d.PNG)
 * Tampilan
 ![3](https://user-images.githubusercontent.com/81587959/114441491-aa37ab80-9bf5-11eb-9807-4fd2c54baee1.PNG)
-![5](https://user-images.githubusercontent.com/81587959/114441593-c76c7a00-9bf5-11eb-9f70-f0aac1e90dfe.PNG)
-
-<hr>
 
 2. <b>Membuat Tabel</b>
 ![4](https://user-images.githubusercontent.com/81587959/114441574-c1769900-9bf5-11eb-8c61-782ebd8a3ba4.PNG)
